@@ -1,2 +1,2 @@
 # app
-app repo
+app repo for git commands
